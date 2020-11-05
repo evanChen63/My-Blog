@@ -48,6 +48,7 @@ int temp =okc[left];
         quickSort(okc, left, i - 1);    // 递归操作左边部分
         quickSort(okc, i + 1, right);   // 递归操作右边部分000000
         //99999999
+        //00000
     }
 
     private static void swap(int[] okc, int i, int j) {
