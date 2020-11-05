@@ -17,6 +17,7 @@ public class TestSort {
         //选择排序
        // selectSort(okc);
         //快速排序
+        //test
         quickSort(okc,0,okc.length-1);
         System.out.println(Arrays.toString(okc));
     }
