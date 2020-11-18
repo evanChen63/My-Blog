@@ -12,6 +12,7 @@ import java.util.Arrays;
 public class TestSort {
     public static void main(String[] args) {
         int okc []={12,25,97,66,88,3,5,9,19,90};
+        //888
         //冒泡排序
         //bubbleSort(okc);
         //选择排序
